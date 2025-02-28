@@ -68,7 +68,7 @@ ninja.data = [{
           title: 'Year 2021 Summary',
           description: "",
           section: "News",handler: () => {
-              window.location.href = "/news/210721/";
+              window.location.href = "/news/210721_summary/";
             },},{id: "news-started-working-as-a-postdoc-at-chalmers-university-of-technology-funded-by-the-european-union-39-s-hexa-x-https-hexa-x-eu-project",
           title: 'Started working as a **Postdoc** at Chalmers University of Technology (funded by the...',
           description: "",
