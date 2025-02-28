@@ -67,11 +67,11 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_2/";
-            },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
-          title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
-          description: "",
-          section: "News",},{id: "news-our-work-is-accepted-by-ieee-wireless-communications-integrated-communication-localization-and-sensing-in-6g-d-mimo-networks",
+            },},{id: "news-our-work-is-accepted-by-ieee-wireless-communications-integrated-communication-localization-and-sensing-in-6g-d-mimo-networks",
           title: 'Our work is accepted by IEEE Wireless Communications: “Integrated Communication, Localization, and Sensing...',
+          description: "",
+          section: "News",},{id: "news-our-work-is-accepted-by-ieee-transactions-on-mobile-computing-zero-access-points-3d-cooperative-positioning-via-ris-and-sidelink-communications",
+          title: 'Our work is accepted by IEEE Transactions on Mobile Computing: “Zero Access Points...',
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',
