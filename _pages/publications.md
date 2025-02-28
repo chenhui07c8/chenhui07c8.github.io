@@ -15,14 +15,6 @@ nav_order: 2
 
 <div class="publications">
 
-[**\*J25**] C. Sun, X. Fang, Y. Ma, **H. Chen**, X. Sun. "Maneuvering Multiple Hypersonic Flight Vehicles via a Hierarchical Control Framework." Submitted to IEEE Transactions on Aerospace and Electronic Systems, 2024.
-\
-[**\*J24**] R. Ghazalian, P. Zheng, **H. Chen**, C. Ozturk, M. F. Keskin, V. Sciancalepore, S. Gezici, T. Y. Al-Naffouri, H. Wymeersch. "Calibration in RIS-aided Integrated Sensing, Localization and Communication Systems." Submitted to IEEE Wireless Communications, 2024. \[[preprint](https://arxiv.org/pdf/2409.16931)\]
-\
-[**\*J23**] M. Ammous, **H. Chen**, H. Wymeersch and S. Valaee. "Zero Access Points 3D Cooperative Sidelink Positioning via Reconfigurable Intelligent Surface." Submitted to IEEE Transactions on Mobile Computing, May. 2023.
-\[[preprint](https://arxiv.org/pdf/2305.08287.pdf)\]
-
-
 {% bibliography %}
 
 </div>
