@@ -65,8 +65,8 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/231230_summary/";
-            },},{id: "news-year-2023-summary",
-          title: 'Year 2023 Summary',
+            },},{id: "news-year-2024-summary",
+          title: 'Year 2024 Summary',
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/241230_summary/";
