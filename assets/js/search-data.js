@@ -64,10 +64,12 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_2/";
-            },},{id: "news-defended-my-ph-d-thesis-stochastic-optimization-in-target-positioning-and-location-based-applications",
-          title: 'Defended my Ph.D. Thesis: “Stochastic Optimization in Target Positioning and Location-based Applications”!!',
+            },},{id: "news-year-2021-summary",
+          title: 'Year 2021 Summary',
           description: "",
-          section: "News",},{id: "news-started-working-as-a-postdoc-at-chalmers-university-of-technology-funded-by-the-european-union-39-s-hexa-x-https-hexa-x-eu-project",
+          section: "News",handler: () => {
+              window.location.href = "/news/210721/";
+            },},{id: "news-started-working-as-a-postdoc-at-chalmers-university-of-technology-funded-by-the-european-union-39-s-hexa-x-https-hexa-x-eu-project",
           title: 'Started working as a **Postdoc** at Chalmers University of Technology (funded by the...',
           description: "",
           section: "News",},{id: "news-3-papers-and-1-tutorial-are-accepted-by-ieee-icc-2025-see-you-in-montreal-canada",
