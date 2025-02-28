@@ -64,11 +64,11 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_2/";
-            },},{id: "news-our-work-is-accepted-by-ieee-wireless-communications-integrated-communication-localization-and-sensing-in-6g-d-mimo-networks",
-          title: 'Our work is accepted by IEEE Wireless Communications: “Integrated Communication, Localization, and Sensing...',
-          description: "",
-          section: "News",},{id: "news-3-papers-and-1-tutorial-are-accepted-by-ieee-icc-2025-see-you-in-montreal-canada",
+            },},{id: "news-3-papers-and-1-tutorial-are-accepted-by-ieee-icc-2025-see-you-in-montreal-canada",
           title: '3 papers and 1 tutorial are accepted by IEEE ICC 2025, see you...',
+          description: "",
+          section: "News",},{id: "news-our-work-is-accepted-by-ieee-wireless-communications-integrated-communication-localization-and-sensing-in-6g-d-mimo-networks",
+          title: 'Our work is accepted by IEEE Wireless Communications: “Integrated Communication, Localization, and Sensing...',
           description: "",
           section: "News",},{id: "news-our-work-is-accepted-by-ieee-transactions-on-mobile-computing-zero-access-points-3d-cooperative-positioning-via-ris-and-sidelink-communications",
           title: 'Our work is accepted by IEEE Transactions on Mobile Computing: “Zero Access Points...',
