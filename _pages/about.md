@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <span style="color:cyan"> Research Specialist | Chalmers University of Technology</span> 
+subtitle: **Research Specialist** | **Chalmers University of Technology** 
 
 profile:
   align: right
