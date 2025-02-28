@@ -36,4 +36,3 @@ Archived news during my PhD study:
 **2017.04:**  Obtained the **4th place** in [2017 Microsoft Indoor Localization Competition](https://www.microsoft.com/en-us/research/event/microsoft-indoor-localization-competition-ipsn-2017/).\
 **2017.02:**  Successfully passed the written EE **PhD qualifying exam**.\
 **2016.08:**  Started my **PhD study** (with full financial funding, KAUST Fellowship) in Electrical Engineering at King Abdullah University of Science and Technology (KAUST).
-![image](https://github.com/user-attachments/assets/47b861bf-65e9-4e63-9981-bd6deb36acc1)
