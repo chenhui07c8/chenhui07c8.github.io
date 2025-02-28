@@ -59,8 +59,8 @@ ninja.data = [{
           window.open("https://medium.com/@al-folio/displaying-external-posts-on-your-al-folio-blog-b60a1d241a0a?source=rss-17feae71c3c4------2", "_blank");
         
       },
-    },{id: "news-a-simple-inline-announcement",
-          title: 'A simple inline announcement.',
+    },{id: "news-3-papers-and-1-tutorial-are-accepted-by-ieee-icc-2025-see-you-in-montreal-canada",
+          title: '3 papers and 1 tutorial are accepted by IEEE ICC 2025, see you...',
           description: "",
           section: "News",},{id: "news-a-long-announcement-with-details",
           title: 'A long announcement with details',
