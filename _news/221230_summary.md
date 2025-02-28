@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Year 2022 Summary
-date: 2021-07-25 16:11:00-0400
+date: 2022-12-31 16:11:00-0400
 inline: false
 related_posts: false
 ---
