@@ -24,7 +24,7 @@ latest_posts:
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
 ---
-I am a research specialist at Chalmers University of Technology, Sweden. I am currently updating my webpage... more will come soon....
+I am is currently a Research Specialist (Permanent Researcher) at [Chalmers University of Technology](https://www.chalmers.se/en/Pages/default.aspx) in [Prof. Henk Wymeersch](https://www.chalmers.se/en/staff/Pages/henk-wymeersch.aspx)'s group ([CROSSNET Team](https://sites.google.com/site/hwymeers/research-group)), Gothenburg, Sweden. He was a Postdoctoral Researcher in the same group at Chalmers and held a Senior Researcher position at [Technology Innovation Institute](https://www.tii.ae/) ([AI and Digital Science Research Center](https://www.tii.ae/ai-and-digital-science)), Abu Dhabi, UAE. He received the Ph.D. Degree in electrical and computer engineering from [King Abdullah University of Science and Technology (KAUST)](https://www.kaust.edu.sa/en) ([Information System Lab](https://cemse.kaust.edu.sa/isl/about-isl), supervised by [Prof. Tareq Al-Naffouri](https://cemse.kaust.edu.sa/isl/people/person/tareq-al-naffouri)), Thuwal, Saudi Arabia, in Aug. 2021. His research interests include 5G/6G Localization, Mismatch Analysis and Calibration, and Machine Learning for Localization and Sensing.
 
 Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
