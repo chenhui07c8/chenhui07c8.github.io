@@ -10,7 +10,7 @@ I completed my PHD study in Aug. 2021.
 
 ---
 
-Archived news during my PhD study
+Archived news during my PhD study:
 
 **2021.07:**  Defended my Ph.D. Thesis: "**Stochastic Optimization in Target Positioning and Location-based Applications**"!!\
 **2021.06:**  Our **Waste Management** project is selected to present in Swiss–Middle East Circular Economy for Youth Initiative ([SMECEYI](https://swisspavilion.org/recycling-with-nommas/)), Swiss Pavilion, Expo Dubai, UAE.\
