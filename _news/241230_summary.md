@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Year 2023 Summary
-date: 2023-12-31 16:11:00-0400
+title: Year 2024 Summary
+date: 2024-12-31 16:11:00-0400
 inline: false
 related_posts: false
 ---
