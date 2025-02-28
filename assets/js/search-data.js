@@ -79,6 +79,11 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/231230_summary/";
+            },},{id: "news-year-2023-summary",
+          title: 'Year 2023 Summary',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/news/241230_summary/";
             },},{id: "news-3-papers-and-1-tutorial-are-accepted-by-ieee-icc-2025-see-you-in-montreal-canada",
           title: '3 papers and 1 tutorial are accepted by IEEE ICC 2025, see you...',
           description: "",
