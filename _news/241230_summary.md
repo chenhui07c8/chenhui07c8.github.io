@@ -29,7 +29,6 @@ Archived news for the year 2024:
 **2024.05:**  Our work is accepted by **IEEE Wireless Communications Letters**: "[Beamforming Inferring by Conditional WGAN-GP for Holographic Antenna Arrays](https://arxiv.org/pdf/2405.00391)." \
 **2024.04:**  Our work is accepted by **IEEE PIMRC 2024**: "[ELAA Near-Field Localization and Sensing with Partial Blockage Detection](https://arxiv.org/pdf/2402.15857)." \
 **2024.02:**  Started working as a **Research Specialist** at Chalmers University of Technology.\
-**2024.01:**  Our work is accepted by **IEEE Transactions on Wireless Communications**: "[Multi-RIS-Enabled 3D Sidelink Positioning](https://arxiv.org/pdf/2302.12459.pdf)." \
-![image](https://github.com/user-attachments/assets/b4aa180d-aad0-4f32-8cb1-d14ddab2c5b3)
+**2024.01:**  Our work is accepted by **IEEE Transactions on Wireless Communications**: "[Multi-RIS-Enabled 3D Sidelink Positioning](https://arxiv.org/pdf/2302.12459.pdf)."
 
 
