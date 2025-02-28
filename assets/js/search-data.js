@@ -70,6 +70,9 @@ ninja.data = [{
             },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
           title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
           description: "",
+          section: "News",},{id: "news-test-of-a-new-item",
+          title: 'Test of a new item.',
+          description: "",
           section: "News",},{
         id: 'social-email',
         title: 'email',
