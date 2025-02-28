@@ -10,7 +10,7 @@ Completed my first-round postdoc at Chalmers.
 
 ---
 
-Archived news for the year 2023.
+Archived news for the year 2023:
 
 **2023.12:**  Our work is accepted by **IEEE Wireless Communications**: "[6G Localization and Sensing in the Near Field: Features, Opportunities, and Challenges](https://arxiv.org/pdf/2308.15799.pdf)." \
 **2023.11:**  Our work is accepted by **IEEE Transactions on Wireless Communications**: "[Modeling and Analysis of OFDM-based 5G/6G Localization under Hardware Impairments](https://ieeexplore.ieee.org/document/10355872)." \
