@@ -69,10 +69,12 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/210721_summary/";
-            },},{id: "news-started-working-as-a-postdoc-at-chalmers-university-of-technology-funded-by-the-european-union-39-s-hexa-x-https-hexa-x-eu-project",
-          title: 'Started working as a **Postdoc** at Chalmers University of Technology (funded by the...',
+            },},{id: "news-year-2022-summary",
+          title: 'Year 2022 Summary',
           description: "",
-          section: "News",},{id: "news-3-papers-and-1-tutorial-are-accepted-by-ieee-icc-2025-see-you-in-montreal-canada",
+          section: "News",handler: () => {
+              window.location.href = "/news/221230_summary/";
+            },},{id: "news-3-papers-and-1-tutorial-are-accepted-by-ieee-icc-2025-see-you-in-montreal-canada",
           title: '3 papers and 1 tutorial are accepted by IEEE ICC 2025, see you...',
           description: "",
           section: "News",},{id: "news-our-work-is-accepted-by-ieee-wireless-communications-integrated-communication-localization-and-sensing-in-6g-d-mimo-networks",
