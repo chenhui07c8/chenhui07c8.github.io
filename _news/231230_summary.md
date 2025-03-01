@@ -26,5 +26,4 @@ Archived news for the year 2023:
 **2023.03:**  Our work is accepted by **IEEE ICASSP 2023**: "[Misspecified Cramer-Rao Bound of RIS-aided Localization under Geometry Mismatch](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10096904)." \
 **2023.03:**  Our work is accepted by **IEEE ICC 2023 (workshop)**: "[RIS‑Aided Monostatic Sensing and Object Detection with Single and Double Bounce Multipath](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10283494)." \
 **2023.01:**  Our work is accepted by **IEEE ICC 2023**: "[RIS Position and Orientation Estimation via Multi-Carrier Transmissions and Multiple Receivers](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10279731)."
-![image](https://github.com/user-attachments/assets/46e87570-c202-4946-bcca-37e5a5c10a73)
 
