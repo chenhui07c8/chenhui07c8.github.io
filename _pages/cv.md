@@ -5,7 +5,7 @@ title: cv
 nav: true
 nav_order: 8
 cv_pdf: example_pdf.pdf # you can also use external links here
-description: CV last updated 2025.02
+description: Please find my CV by clicking the topright button (last updated 2025.01)
 toc:
   sidebar: left
 ---
