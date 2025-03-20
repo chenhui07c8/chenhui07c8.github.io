@@ -45,12 +45,7 @@ ninja.data = [{
           window.open("https://medium.com/@al-folio/displaying-external-posts-on-your-al-folio-blog-b60a1d241a0a?source=rss-17feae71c3c4------2", "_blank");
         
       },
-    },{id: "news-test-a-long-announcement-with-details",
-          title: 'Test--A long announcement with details',
-          description: "",
-          section: "News",handler: () => {
-              window.location.href = "/news/announcement_2/";
-            },},{id: "news-year-2021-summary",
+    },{id: "news-year-2021-summary",
           title: 'Year 2021 Summary',
           description: "",
           section: "News",handler: () => {
@@ -70,11 +65,17 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/241230_summary/";
-            },},{id: "news-3-papers-and-1-tutorial-are-accepted-by-ieee-icc-2025-see-you-in-montreal-canada",
-          title: '3 papers and 1 tutorial are accepted by IEEE ICC 2025, see you...',
+            },},{id: "news-5-papers-including-2-workshop-papers-and-1-tutorial-are-accepted-by-ieee-icc-2025-see-you-in-montreal-canada",
+          title: '5 papers (including 2 workshop papers) and 1 tutorial are accepted by IEEE...',
           description: "",
           section: "News",},{id: "news-our-work-is-accepted-by-ieee-transactions-on-mobile-computing-zero-access-points-3d-cooperative-positioning-via-ris-and-sidelink-communications",
           title: 'Our work is accepted by IEEE Transactions on Mobile Computing: “Zero Access Points...',
+          description: "",
+          section: "News",},{id: "news-i-am-awarded-the-eu-marie-skłodowska-curie-actions-postdoc-fellowship-97-4-100-looking-forward-to-having-some-good-time-at-university-college-london-ucl",
+          title: 'I am awarded the EU Marie Skłodowska-Curie Actions Postdoc Fellowship (97.4/100)! Looking forward...',
+          description: "",
+          section: "News",},{id: "news-our-work-is-accepted-by-ieee-communications-standards-magazine-integrated-6g-tn-and-ntn-localization-challenges-opportunities-and-advancements",
+          title: 'Our work is accepted by IEEE Communications Standards Magazine: “Integrated 6G TN and...',
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',
