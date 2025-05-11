@@ -80,7 +80,7 @@ ninja.data = [{
           section: "News",},{id: "news-our-work-is-accepted-by-ieee-communications-standards-magazine-integrated-6g-tn-and-ntn-localization-challenges-opportunities-and-advancements",
           title: 'Our work is accepted by IEEE Communications Standards Magazine: “Integrated 6G TN and...',
           description: "",
-          section: "News",},{id: "news-our-work-is-accepted-by-ieee-transactions-on-aerospace-and-electronic-systems-maneuvering-multiple-hypersonic-flight-vehicles-via-a-hierarchical-control-framework-our-work-is-accepted-by-ieee-transactions-on-aerospace-and-electronic-systems-maneuvering-multiple-hypersonic-flight-vehicles-via-a-hierarchical-control-framework",
+          section: "News",},{id: "news-our-work-is-accepted-by-ieee-transactions-on-aerospace-and-electronic-systems-maneuvering-multiple-hypersonic-flight-vehicles-via-a-hierarchical-control-framework-our-work-is-accepted-by-ieee-transactions-on-cognitive-communications-and-networking-mutual-coupling-aware-localization-for-ris-assisted-isac-systems-our-work-is-accepted-by-ieee-wireless-communications-letters-privacy-preservation-in-mimo-ofdm-localization-systems-a-beamforming-approach",
           title: 'Our work is accepted by IEEE Transactions on Aerospace and Electronic Systems: “Maneuvering...',
           description: "",
           section: "News",},{id: "projects-project-1",
