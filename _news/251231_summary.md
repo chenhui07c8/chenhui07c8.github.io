@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Year 2025 Summary
-date: 2025-12-31 16:11:00-0400
+date: 2025-01-01 16:11:00-0400
 inline: false
 related_posts: false
 ---
