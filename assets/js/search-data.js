@@ -54,40 +54,33 @@ ninja.data = [{
           title: 'Year 2022 Summary',
           description: "",
           section: "News",handler: () => {
-              window.location.href = "/news/221230_summary/";
+              window.location.href = "/news/221231_summary/";
             },},{id: "news-year-2023-summary",
           title: 'Year 2023 Summary',
           description: "",
           section: "News",handler: () => {
-              window.location.href = "/news/231230_summary/";
+              window.location.href = "/news/231231_summary/";
             },},{id: "news-year-2024-summary",
           title: 'Year 2024 Summary',
           description: "",
           section: "News",handler: () => {
-              window.location.href = "/news/241230_summary/";
-            },},{id: "news-5-papers-including-2-workshop-papers-and-1-tutorial-are-accepted-by-ieee-icc-2025-see-you-in-montreal-canada",
-          title: '5 papers (including 2 workshop papers) and 1 tutorial are accepted by IEEE...',
+              window.location.href = "/news/241231_summary/";
+            },},{id: "news-year-2024-summary",
+          title: 'Year 2024 Summary',
           description: "",
-          section: "News",},{id: "news-our-work-is-accepted-by-ieee-transactions-on-mobile-computing-zero-access-points-3d-cooperative-positioning-via-ris-and-sidelink-communications",
-          title: 'Our work is accepted by IEEE Transactions on Mobile Computing: “Zero Access Points...',
-          description: "",
-          section: "News",},{id: "news-i-am-awarded-the-eu-marie-skłodowska-curie-actions-postdoc-fellowship-msca-pf-2024-which-supports-2-years-of-research-at-university-college-london-ucl",
-          title: 'I am awarded the EU Marie Skłodowska-Curie Actions Postdoc Fellowship (MSCA-PF 2024), which...',
-          description: "",
-          section: "News",},{id: "news-i-started-serving-as-an-editor-for-ieee-communications-letters-in-mar-2025",
-          title: 'I started serving as an Editor for IEEE Communications Letters in Mar. 2025!...',
-          description: "",
-          section: "News",},{id: "news-our-work-is-accepted-by-ieee-communications-standards-magazine-integrated-6g-tn-and-ntn-localization-challenges-opportunities-and-advancements",
-          title: 'Our work is accepted by IEEE Communications Standards Magazine: “Integrated 6G TN and...',
-          description: "",
-          section: "News",},{id: "news-our-work-is-accepted-by-ieee-transactions-on-aerospace-and-electronic-systems-maneuvering-multiple-hypersonic-flight-vehicles-via-a-hierarchical-control-framework-our-work-is-accepted-by-ieee-transactions-on-cognitive-communications-and-networking-mutual-coupling-aware-localization-for-ris-assisted-isac-systems-our-work-is-accepted-by-ieee-wireless-communications-letters-privacy-preservation-in-mimo-ofdm-localization-systems-a-beamforming-approach",
-          title: '-Our work is accepted by IEEE Transactions on Aerospace and Electronic Systems: “Maneuvering...',
-          description: "",
-          section: "News",},{id: "news-i-started-my-2-month-research-visit-at-the-university-of-toronto-hosted-by-prof-wei-yu-and-prof-shahrokh-valaee-working-on-active-sensing-in-distributed-systems",
-          title: '-I started my 2-month research visit at the University of Toronto (hosted by...',
+          section: "News",handler: () => {
+              window.location.href = "/news/251231_summary/";
+            },},{id: "news-jun-i-started-my-2-month-research-visit-at-the-university-of-toronto-hosted-by-prof-wei-yu-and-prof-shahrokh-valaee-working-on-active-sensing-in-distributed-systems-apr-our-work-is-accepted-by-ieee-transactions-on-aerospace-and-electronic-systems-maneuvering-multiple-hypersonic-flight-vehicles-via-a-hierarchical-control-framework-apr-our-work-is-accepted-by-ieee-transactions-on-cognitive-communications-and-networking-mutual-coupling-aware-localization-for-ris-assisted-isac-systems-apr-our-work-is-accepted-by-ieee-wireless-communications-letters-privacy-preservation-in-mimo-ofdm-localization-systems-a-beamforming-approach",
+          title: '[Jun.]: I started my 2-month research visit at the University of Toronto (hosted...',
           description: "",
           section: "News",},{id: "news-we-have-several-papers-and-magazines-accepted-during-the-summer-sensing-with-mobile-devices-through-radio-slam-models-methods-opportunities-and-challenges-is-accepted-by-ieee-communications-magazine-calibration-in-ris-aided-integrated-sensing-localization-and-communication-systems-is-accepted-by-ieee-wireless-communications-cross-layer-integrated-sensing-and-communication-a-joint-industrial-and-academic-perspective-is-accepted-by-ieee-open-journal-of-the-communications-society-sub-thz-communications-perspective-and-results-from-the-hexa-x-ii-project-is-accepted-by-ieee-open-journal-of-the-communications-society-joint-bistatic-positioning-and-monostatic-sensing-optimized-beamforming-and-performance-tradeoff-is-accepted-by-ieee-transactions-on-cognitive-communications-and-networking",
           title: '-We have several papers and magazines accepted during the summer!! -“Sensing with Mobile...',
+          description: "",
+          section: "News",},{id: "news-we-have-several-papers-and-magazines-accepted-before-the-new-year-dec-our-work-is-accepted-by-ieee-transactions-on-wireless-communications-modern-base-station-architecture-enabling-passive-beamforming-with-beyond-diagonal-riss",
+          title: '-We have several papers and magazines accepted before the New Year!! [Dec.]: Our...',
+          description: "",
+          section: "News",},{id: "news-we-have-several-papers-and-magazines-accepted-as-a-great-start-of-2026-communext-deep-learning-based-cross-band-and-multi-directional-signal-prediction-is-accepted-by-ieee-transactions-on-wireless-communications-vehicular-wireless-positioning-a-survey-is-accepted-by-ieee-communications-surveys-and-tutorials-near-field-ris-aided-localization-under-deliberate-model-misspecification-bounds-and-algorithms-is-accepted-by-ieee-transactions-on-wireless-communications-hybrid-codebook-design-for-localization-using-electromagnetically-reconfigurable-fluid-antenna-system-is-accepted-by-ieee-journal-of-selected-topics-in-signal-processing-integrated-cellular-and-leo-based-positioning-and-synchronization-under-user-mobility-is-accepted-by-ieee-transactions-on-vehicular-technology",
+          title: '-We have several papers and magazines accepted as a great start of 2026!!...',
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',
