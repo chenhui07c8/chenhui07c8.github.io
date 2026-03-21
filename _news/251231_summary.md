@@ -6,11 +6,12 @@ inline: false
 related_posts: false
 ---
 
-Awarded the prestigious MSCA Postdoctoral Fellowship with a score of 97.4/100.
+Awarded the prestigious MSCA Postdoctoral Fellowship with a score of `97.4/100`.
 
 ---
 
 Archived news for the year 2025:
+
 **2025.12:** Our work is accepted by **IEEE Transactions on Wireless Communications**: "Modern base station architecture: Enabling passive beamforming with beyond diagonal RISs."\
 **2025.11:** "Sensing with Mobile Devices through Radio SLAM: Models, Methods, Opportunities, and Challenges" is accepted by **IEEE Communications Magazine**.\
 **2025.10:** "Calibration in RIS-aided Integrated Sensing, Localization and Communication Systems" is accepted by **IEEE Wireless Communications**\
