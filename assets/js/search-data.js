@@ -70,17 +70,17 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/251231_summary/";
-            },},{id: "news-good-news-before-the-summer-jun-i-started-my-2-month-research-visit-at-the-university-of-toronto-hosted-by-prof-wei-yu-and-prof-shahrokh-valaee-working-on-active-sensing-in-distributed-systems-apr-our-work-is-accepted-by-ieee-transactions-on-aerospace-and-electronic-systems-maneuvering-multiple-hypersonic-flight-vehicles-via-a-hierarchical-control-framework-apr-our-work-is-accepted-by-ieee-transactions-on-cognitive-communications-and-networking-mutual-coupling-aware-localization-for-ris-assisted-isac-systems-apr-our-work-is-accepted-by-ieee-wireless-communications-letters-privacy-preservation-in-mimo-ofdm-localization-systems-a-beamforming-approach",
-          title: 'Good news before the summer!!!! Jun: I started my 2-month research visit at...',
-          description: "",
-          section: "News",},{id: "news-we-have-several-papers-and-magazines-accepted-during-the-summer-aug-cross-layer-integrated-sensing-and-communication-a-joint-industrial-and-academic-perspective-is-accepted-by-ieee-open-journal-of-the-communications-society-jul-sub-thz-communications-perspective-and-results-from-the-hexa-x-ii-project-is-accepted-by-ieee-open-journal-of-the-communications-society-jul-joint-bistatic-positioning-and-monostatic-sensing-optimized-beamforming-and-performance-tradeoff-is-accepted-by-ieee-transactions-on-cognitive-communications-and-networking",
-          title: 'We have several papers and magazines accepted during the summer!! Aug: “Cross-layer Integrated...',
-          description: "",
-          section: "News",},{id: "news-we-have-several-papers-and-magazines-accepted-before-the-new-year-dec-our-work-is-accepted-by-ieee-transactions-on-wireless-communications-modern-base-station-architecture-enabling-passive-beamforming-with-beyond-diagonal-riss-nov-sensing-with-mobile-devices-through-radio-slam-models-methods-opportunities-and-challenges-is-accepted-by-ieee-communications-magazine-oct-calibration-in-ris-aided-integrated-sensing-localization-and-communication-systems-is-accepted-by-ieee-wireless-communications",
-          title: 'We have several papers and magazines accepted before the New Year!! Dec: Our...',
-          description: "",
-          section: "News",},{id: "news-we-have-several-papers-accepted-as-a-great-start-of-2026-mar-communext-deep-learning-based-cross-band-and-multi-directional-signal-prediction-is-accepted-by-ieee-transactions-on-wireless-communications-mar-vehicular-wireless-positioning-a-survey-is-accepted-by-ieee-communications-surveys-and-tutorials-mar-near-field-ris-aided-localization-under-deliberate-model-misspecification-bounds-and-algorithms-is-accepted-by-ieee-transactions-on-wireless-communications-mar-hybrid-codebook-design-for-localization-using-electromagnetically-reconfigurable-fluid-antenna-system-is-accepted-by-ieee-journal-of-selected-topics-in-signal-processing-feb-integrated-cellular-and-leo-based-positioning-and-synchronization-under-user-mobility-is-accepted-by-ieee-transactions-on-vehicular-technology",
+            },},{id: "news-we-have-several-papers-accepted-as-a-great-start-of-2026-mar-communext-deep-learning-based-cross-band-and-multi-directional-signal-prediction-is-accepted-by-ieee-transactions-on-wireless-communications-mar-vehicular-wireless-positioning-a-survey-is-accepted-by-ieee-communications-surveys-and-tutorials-mar-near-field-ris-aided-localization-under-deliberate-model-misspecification-bounds-and-algorithms-is-accepted-by-ieee-transactions-on-wireless-communications-mar-hybrid-codebook-design-for-localization-using-electromagnetically-reconfigurable-fluid-antenna-system-is-accepted-by-ieee-journal-of-selected-topics-in-signal-processing-feb-integrated-cellular-and-leo-based-positioning-and-synchronization-under-user-mobility-is-accepted-by-ieee-transactions-on-vehicular-technology",
           title: 'We have several papers accepted as a great start of 2026!!’’ Mar: “CommUNext:...',
+          description: "",
+          section: "News",},{id: "news-map-aided-jsac-beam-design-via-active-sensing-is-accepted-by-ieee-wireless-communications-letters",
+          title: '“Map-aided JSAC Beam Design via Active Sensing” is accepted by IEEE Wireless Communications...',
+          description: "",
+          section: "News",},{id: "news-i-started-my-new-position-as-an-assistant-professor-in-the-division-of-signals-and-systems-department-of-electrical-engineering-at-uppsala-university-mismatch-analysis-and-cooperative-calibration-of-array-beam-patterns-for-isac-systems-is-accepted-by-ieee-transactions-on-wireless-communications",
+          title: 'I started my new position as an Assistant Professor in the Division of...',
+          description: "",
+          section: "News",},{id: "news-implementation-and-validation-of-an-automated-experimental-platform-for-vector-network-analysis-based-on-sdr-is-accepted-by-ieee-transactions-on-instrumentation-and-measurement-multi-domain-security-for-6g-isac-challenges-and-opportunities-in-transportation-is-accepted-by-ieee-communications-magazine",
+          title: '“Implementation and Validation of An Automated Experimental Platform for Vector Network Analysis Based...',
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',
@@ -132,7 +132,7 @@ ninja.data = [{
         title: 'email',
         section: 'Socials',
         handler: () => {
-          window.open("mailto:%68%75%69.%63%68%65%6E@%63%68%61%6C%6D%65%72%73.%73%65", "_blank");
+          window.open("mailto:%68%75%69.%63%68%65%6E@%61%6E%67%73%74%72%6F%6D.%75%75.%73%65", "_blank");
         },
       },{
         id: 'social-github',
