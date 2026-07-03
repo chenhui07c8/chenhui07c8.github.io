@@ -70,8 +70,11 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/251231_summary/";
-            },},{id: "news-we-have-several-papers-accepted-as-a-great-start-of-2026-mar-communext-deep-learning-based-cross-band-and-multi-directional-signal-prediction-is-accepted-by-ieee-transactions-on-wireless-communications-mar-vehicular-wireless-positioning-a-survey-is-accepted-by-ieee-communications-surveys-and-tutorials-mar-near-field-ris-aided-localization-under-deliberate-model-misspecification-bounds-and-algorithms-is-accepted-by-ieee-transactions-on-wireless-communications-mar-hybrid-codebook-design-for-localization-using-electromagnetically-reconfigurable-fluid-antenna-system-is-accepted-by-ieee-journal-of-selected-topics-in-signal-processing-feb-integrated-cellular-and-leo-based-positioning-and-synchronization-under-user-mobility-is-accepted-by-ieee-transactions-on-vehicular-technology",
-          title: 'We have several papers accepted as a great start of 2026!!’’ Mar: “CommUNext:...',
+            },},{id: "news-integrated-cellular-and-leo-based-positioning-and-synchronization-under-user-mobility-is-accepted-by-ieee-transactions-on-vehicular-technology",
+          title: '“Integrated Cellular and LEO-based Positioning and Synchronization under User Mobility” is accepted by...',
+          description: "",
+          section: "News",},{id: "news-communext-deep-learning-based-cross-band-and-multi-directional-signal-prediction-is-accepted-by-ieee-transactions-on-wireless-communications-vehicular-wireless-positioning-a-survey-is-accepted-by-ieee-communications-surveys-and-tutorials-near-field-ris-aided-localization-under-deliberate-model-misspecification-bounds-and-algorithms-is-accepted-by-ieee-transactions-on-wireless-communications-hybrid-codebook-design-for-localization-using-electromagnetically-reconfigurable-fluid-antenna-system-is-accepted-by-ieee-journal-of-selected-topics-in-signal-processing",
+          title: '“CommUNext: Deep Learning-Based Cross-Band and Multi-Directional Signal Prediction” is accepted by IEEE Transactions...',
           description: "",
           section: "News",},{id: "news-map-aided-jsac-beam-design-via-active-sensing-is-accepted-by-ieee-wireless-communications-letters",
           title: '“Map-aided JSAC Beam Design via Active Sensing” is accepted by IEEE Wireless Communications...',
